@@ -1,0 +1,3 @@
+As most people do, the first command I'm going to use is none other than the honorable "print," but because I understand python's anguish in saying hello to this world for the millionth time, I'll let my python say good bye to this world.
+Code 1 - bidding farewell
+print("Bye Bye World")
